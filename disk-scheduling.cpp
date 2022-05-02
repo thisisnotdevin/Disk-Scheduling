@@ -90,4 +90,5 @@ int main()
     SCAN(diskNum, head, size);
 
     return 0;
+    
 }
